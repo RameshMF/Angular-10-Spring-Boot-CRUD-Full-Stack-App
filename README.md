@@ -34,7 +34,20 @@ Angular Spring Boot CRUD Full Stack App created for my YouTube course
 ### Angular 10 + Spring Boot CRUD Full Stack App - 11 - Connecting Angular with List Employee REST API
 => https://youtu.be/poQLnZU0eHc
 
+### Angular 10 + Spring Boot CRUD Full Stack App - 11 - Connecting Angular with List Employee REST API
+=> https://youtu.be/poQLnZU0eHc
+
 ### Angular 10 + Spring Boot CRUD Full Stack App - 12 - Routing and Navigation in Angular App
 => https://youtu.be/TUYyW0l8fiA
+
+
+### Angular 10 + Spring Boot CRUD Full Stack App - 12 - Routing and Navigation in Angular App
+=> https://youtu.be/TUYyW0l8fiA
+
+### Angular 10 + Spring Boot CRUD Full Stack App - 13 - Creating Add Employee REST API
+=> https://youtu.be/qH7_1W8MKfs
+
+### Angular 10 + Spring Boot CRUD Full Stack App - 14 - Creating Angular Create Employee Component
+=> https://youtu.be/yYlMsNdAXJ4
 
 
